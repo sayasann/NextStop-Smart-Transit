@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1000x300?text=NextStop+-+Smart+Bus+%26+Station+IoT+Ecosystem" alt="NextStop Project Banner">
+<img src="nextstop.png" alt="NextStop Logo" width="300">
 
 # NextStop: Smart Bus & Station IoT Ecosystem 🚌📡
 
